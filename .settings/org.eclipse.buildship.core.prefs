@@ -1,0 +1,13 @@
+arguments=
+auto.sync=true
+build.scans.enabled=false
+connection.gradle.distribution=GRADLE_DISTRIBUTION(VERSION(6.8-milestone-2))
+connection.project.dir=
+eclipse.preferences.version=1
+gradle.user.home=C\:/Users/vbalan/.gradle/wrapper/dists/gradle-6.8-milestone-2-bin/f1a1x2c7f7u8xtn2s0013auu8/gradle-6.8-milestone-2/bin
+java.home=
+jvm.arguments=
+offline.mode=false
+override.workspace.settings=true
+show.console.view=true
+show.executions.view=true

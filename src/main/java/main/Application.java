@@ -6,7 +6,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		
-		System.out.println(Calculator.pow(0, 0));
+		Calculator.pow(2, -9);
 		
 	}
 	
